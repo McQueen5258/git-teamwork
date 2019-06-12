@@ -17,7 +17,7 @@ public class AppTest
 
     @Test
     public void eric() {
-        assertEquals(App.eric().toLowerCase(), "eric");
+        assertEquals(App.eric().toLowerCase(), "eric ");
     }
 
     @Test
